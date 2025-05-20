@@ -4,7 +4,7 @@
 <head>
 
     <meta charset="utf-8" />
-    <title>Log In | Responsive Admin Dashboard Template</title>
+    <title>Sign In | Responsive Admin Dashboard Template</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="A fully featured admin theme which can be used to build CRM, CMS, etc." />
     <meta name="author" content="Zoyothemes" />
@@ -85,7 +85,7 @@
                                     <div class="saprator my-4"><span>or sign in with</span></div>
 
                                     <div class="text-center text-muted mb-4">
-                                        <p class="mb-0">Don't have an account ?<a class='text-primary ms-2 fw-medium' href="{{route('register')}}">Sing up</a></p>
+                                        <p class="mb-0">Don't have an account ?<a class='text-primary ms-2 fw-medium' href="{{route('register')}}">Sign up</a></p>
                                     </div>
 
                                 </div>
